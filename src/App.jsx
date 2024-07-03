@@ -1,4 +1,4 @@
-import React, { useContext,useState, useRef } from 'react';
+import React, { useContext } from 'react';
 import stopwatch from './assets/watch.png';
 import './App.css';
 import { TimerContext } from './components/TimerContext';
